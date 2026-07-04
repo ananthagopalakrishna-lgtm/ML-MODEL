@@ -116,7 +116,7 @@ The application will open in your browser.
 
 ## 👩‍💻 Author
 
-**Poojitha**
+**Gopala krishna**
 
 GitHub: https://github.com/your-username
 
